@@ -1,0 +1,178 @@
+{
+  "comprehensive_analysis": {
+    "symbol": "AAPL",
+    "timestamp": "2025-06-26T23:35:17.656100",
+    "analysis_period": "3mo",
+    "stock_info": {
+      "Symbol": "AAPL",
+      "Company Name": "Apple Inc.",
+      "Current Price": 200.5601,
+      "Market Cap": 2995525517312,
+      "PE Ratio": 31.191307,
+      "Dividend Yield": 0.52,
+      "52 Week High": 260.1,
+      "52 Week Low": 169.21,
+      "Sector": "Technology",
+      "Industry": "Consumer Electronics"
+    },
+    "price_analysis": {
+      "current_price": 200.5601043701172,
+      "previous_close": 201.55999755859375,
+      "daily_change": -0.9998931884765625,
+      "daily_change_pct": -0.49607719814835394,
+      "period_high": 225.32451569687797,
+      "period_low": 168.9884109270566,
+      "average_volume": 60828825.671875,
+      "period_start_price": 221.2398681640625,
+      "period_change": -20.679763793945312,
+      "period_change_pct": -9.34721393822656,
+      "total_days": 64
+    },
+    "technical_analysis": {
+      "ma_20": 200.36250534057618,
+      "ma_50": 202.53898040771483,
+      "ma_200": null,
+      "price_above_ma_20": "True",
+      "price_above_ma_50": "False",
+      "price_above_ma_200": null,
+      "trend_signal": "MIXED"
+    },
+    "analyst_recommendations": {
+      "total_analysts": "46",
+      "strong_buy": "6",
+      "buy": "20",
+      "hold": "17",
+      "sell": "2",
+      "strong_sell": "1",
+      "buy_ratio": 56.52173913043478
+    },
+    "news": [
+      {
+        "title": "Brad Pitt's Formula 1 racing movie debuts Friday. Can it help bring the sport to new heights?",
+        "summary": "It\u2019s a huge week for Formula One, but the action isn\u2019t on the starting grid.\n\u201cF1: The Movie\u201d aims for glory in the highly competitive summer blockbuster space and is tracking well, per Hollywood insiders.",
+        "link": "https://finance.yahoo.com/news/brad-pitts-formula-1-racing-movie-debuts-friday-can-it-help-bring-the-sport-to-new-heights-120936369.html",
+        "publisher": "Yahoo Finance",
+        "published_date": "2025-06-26T12:09:36Z"
+      },
+      {
+        "title": "Meta\u2019s quest to dominate the AI world",
+        "summary": "Meta is on a quest to dominate the AI world. One way or another.",
+        "link": "https://finance.yahoo.com/news/metas-quest-to-dominate-the-ai-world-184836143.html",
+        "publisher": "Yahoo Finance",
+        "published_date": "2025-06-25T18:48:36Z"
+      },
+      {
+        "title": "Apple's Potential Acquisition of Perplexity AI Poses Risks, UBS Says",
+        "summary": "Apple's (AAPL) potential acquisition of Perplexity AI for $14 billion to integrate the artificial in",
+        "link": "https://finance.yahoo.com/news/apple-apos-potential-acquisition-perplexity-154542864.html",
+        "publisher": "MT Newswires",
+        "published_date": "2025-06-26T15:45:42Z"
+      },
+      {
+        "title": "This is the Best June Performance for Nvidia Since 2021. Is It Too Late to Buy NVDA Stock for July?",
+        "summary": "NVDA stock is still the AI chip leader to own, but the shares look short-term overbought at current prices.",
+        "link": "https://www.barchart.com/story/news/33071936/this-is-the-best-june-performance-for-nvidia-since-2021-is-it-too-late-to-buy-nvda-stock-for-july",
+        "publisher": "Barchart",
+        "published_date": "2025-06-26T15:39:52Z"
+      },
+      {
+        "title": "Apple (AAPL) Stock Pulled Back Along with Other Tech Players",
+        "summary": "Columbia Threadneedle Investments, an investment management company, released its \u201cColumbia Seligman Global Technology Fund\u201d first quarter 2025 investor letter. A copy of the letter can be downloaded here. During the first period, the U.S. equity market declined and underperformed compared to its global developed-market counterparts. The fund\u2019s Institutional Class shares returned -12.71% in the quarter, compared [\u2026]",
+        "link": "https://finance.yahoo.com/news/apple-aapl-stock-pulled-back-150029682.html",
+        "publisher": "Insider Monkey",
+        "published_date": "2025-06-26T15:00:29Z"
+      }
+    ],
+    "calendar_events": {
+      "Dividend Date": "2025-05-15",
+      "Ex-Dividend Date": "2025-05-12",
+      "Earnings Date": [
+        "2025-07-30",
+        "2025-08-04"
+      ],
+      "Earnings High": 1.51,
+      "Earnings Low": 1.34,
+      "Earnings Average": 1.42415,
+      "Revenue High": 90104000000,
+      "Revenue Low": 86919000000,
+      "Revenue Average": 88638880990
+    },
+    "raw_data": {
+      "historical_data_shape": [
+        64,
+        7
+      ],
+      "has_recommendations": true,
+      "news_count": 5,
+      "has_calendar": true
+    }
+  },
+  "price_statistics": {
+    "symbol": "AAPL",
+    "period": "1mo",
+    "current_price": 200.57000732421875,
+    "start_price": 200.2100067138672,
+    "high": 206.24000549316406,
+    "low": 195.07000732421875,
+    "change": 0.3600006103515625,
+    "change_pct": 0.1798114970677076,
+    "average_volume": 51727066.31818182,
+    "total_volume": "1137995459",
+    "trading_days": 22,
+    "volatility": 1.0423641697052737,
+    "last_5_days": [
+      {
+        "Open": 198.24000549316406,
+        "High": 201.6999969482422,
+        "Low": 196.86000061035156,
+        "Close": 201.0,
+        "Volume": 96813500
+      },
+      {
+        "Open": 201.6300048828125,
+        "High": 202.3000030517578,
+        "Low": 198.9600067138672,
+        "Close": 201.5,
+        "Volume": 55814300
+      },
+      {
+        "Open": 202.58999633789062,
+        "High": 203.44000244140625,
+        "Low": 200.1999969482422,
+        "Close": 200.3000030517578,
+        "Volume": 54064000
+      },
+      {
+        "Open": 201.4499969482422,
+        "High": 203.6699981689453,
+        "Low": 200.6199951171875,
+        "Close": 201.55999755859375,
+        "Volume": 39454000
+      },
+      {
+        "Open": 201.42999267578125,
+        "High": 202.61500549316406,
+        "Low": 199.4600067138672,
+        "Close": 200.57000732421875,
+        "Volume": 29713459
+      }
+    ]
+  },
+  "raw_components": {
+    "stock_info": {
+      "Symbol": "AAPL",
+      "Company Name": "Apple Inc.",
+      "Current Price": 200.5601,
+      "Market Cap": 2995525517312,
+      "PE Ratio": 31.191307,
+      "Dividend Yield": 0.52,
+      "52 Week High": 260.1,
+      "52 Week Low": 169.21,
+      "Sector": "Technology",
+      "Industry": "Consumer Electronics"
+    },
+    "news_count": 5,
+    "historical_data_points": 22,
+    "has_recommendations": true
+  }
+}
